@@ -7,6 +7,8 @@ A simple console-based School Management System implemented in Java. This applic
 - Add and manage students
 - Add and manage teachers
 - Add and manage courses
+- Assign teachers to courses
+- Assign students to courses
 - Display lists of students, teachers, and courses
 
 ## Getting Started
